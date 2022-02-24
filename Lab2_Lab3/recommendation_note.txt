@@ -1,0 +1,8 @@
+# dataset-->preprocessing-->model building-->connect with website-->deploy
+# Three types of recommender system--
+ 1. Content based : if I see a romantic song then youtube will suggest me the next song also romantic song.
+ 2. collaboratory filtering based : If user A and B see a same movie like 3 idiots then if A see a another movie like pushpa then youtube automatically suggest the pushpa movie of the user B.
+ 3. Hybrid : The system maintain the both recommendation system.
+
+# We will implement the content based recommendation system.
+# The dataset has 5 thousand movies.
