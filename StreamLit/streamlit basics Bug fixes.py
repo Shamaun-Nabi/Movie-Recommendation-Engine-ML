@@ -56,5 +56,22 @@ if st.button('Show Recommendation'):
 
 
 
+# Text vectorization[{
+# key:"Get the closest word"
 
+# Eqluidian distance[point to point] not distance is Cosine distance(Angle distance))
+# }]
+
+# Bag of Words [{
+# Techniques to remove unneccsary items
+# ]
+
+# Stemps ['Make','Making','Makes',"Made"]=Make=['Make','Make','Make']
+
+# cosine similarity sklearn
+
+# pickel{
+# [send the data frame to websites]
+# [Serialization, Deserialization]
+# }
 
